@@ -1,0 +1,39 @@
+{
+	"id": "2b315e21-0203-4e18-8cfd-7eeea8acdf3c",
+	"values": [
+		{
+			"key": "token",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "url",
+			"value": "http://localhost:3000",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "idadm",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "idnotadm",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "idProduto",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2022-05-28T21:50:48.980Z",
+	"_postman_exported_using": "Postman/9.19.3"
+}
